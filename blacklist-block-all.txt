@@ -1,18 +1,18 @@
-events.hotjar.io
-claritybt.freshmarketer.com
-fwtracks.freshmarketer.com
-tools.mouseflow.com
-cdn-test.mouseflow.com
-realtime.luckyorange.com
-api.bugsnag.com
-app.bugsnag.com
-browser.sentry-cdn.com
-widgets.pinterest.com
-advertising.apple.com
-samsung-com.112.2o7.net
-iadsdk.apple.com
-metrics.mzstatic.com
-api-adservices.apple.com
-books-analytics-events.apple.com
-weather-analytics-events.apple.com
-notes-analytics-events.apple.com
+0.0.0.0 events.hotjar.io
+0.0.0.0 claritybt.freshmarketer.com
+0.0.0.0 fwtracks.freshmarketer.com
+0.0.0.0 tools.mouseflow.com
+0.0.0.0 cdn-test.mouseflow.com
+0.0.0.0 realtime.luckyorange.com
+0.0.0.0 api.bugsnag.com
+0.0.0.0 app.bugsnag.com
+0.0.0.0 browser.sentry-cdn.com
+0.0.0.0 widgets.pinterest.com
+0.0.0.0 advertising.apple.com
+0.0.0.0 samsung-com.112.2o7.net
+0.0.0.0 iadsdk.apple.com
+0.0.0.0 metrics.mzstatic.com
+0.0.0.0 api-adservices.apple.com
+0.0.0.0 books-analytics-events.apple.com
+0.0.0.0 weather-analytics-events.apple.com
+0.0.0.0 notes-analytics-events.apple.com
