@@ -1,0 +1,2 @@
+events.hotjar.io
+claritybt.freshmarketer.com
