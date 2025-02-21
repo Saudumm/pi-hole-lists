@@ -1,57 +1,57 @@
-0.0.0.0 kinguin.net
-0.0.0.0 www.kinguin.net
-0.0.0.0 creative.ak.fbcdn.net					
-0.0.0.0 external-lhr0-1.xx.fbcdn.net					
-0.0.0.0 external-lhr10-1.xx.fbcdn.net					
-0.0.0.0 external-lhr1-1.xx.fbcdn.net					
-0.0.0.0 external-lhr2-1.xx.fbcdn.net					
-0.0.0.0 external-lhr3-1.xx.fbcdn.net					
-0.0.0.0 external-lhr4-1.xx.fbcdn.net					
-0.0.0.0 external-lhr5-1.xx.fbcdn.net					
-0.0.0.0 external-lhr6-1.xx.fbcdn.net					
-0.0.0.0 external-lhr7-1.xx.fbcdn.net					
-0.0.0.0 external-lhr8-1.xx.fbcdn.net					
-0.0.0.0 external-lhr9-1.xx.fbcdn.net					
-0.0.0.0 fbcdn-creative-a.akamaihd.net					
-0.0.0.0 graph.facebook.com					
-0.0.0.0 graph.instagram.com					
-0.0.0.0 instagram.c10r.facebook.com					
-0.0.0.0 scontent-lhr3-1.xx.fbcdn.net					
-0.0.0.0 scontent.xx.fbcdn.net					
-0.0.0.0 scontent.fgdl5-1.fna.fbcdn.net					
-0.0.0.0 facebook.com					
-0.0.0.0 facebook.net					
-0.0.0.0 fbcdn.net					
-0.0.0.0 cdn.fbsbx.com					
-0.0.0.0 edge-mqtt.facebook.com					
-0.0.0.0 0-edge-chat.facebook.com					
-0.0.0.0 1-edge-chat.facebook.com					
-0.0.0.0 2-edge-chat.facebook.com					
-0.0.0.0 3-edge-chat.facebook.com					
-0.0.0.0 4-edge-chat.facebook.com					
-0.0.0.0 5-edge-chat.facebook.com					
-0.0.0.0 6-edge-chat.facebook.com					
-0.0.0.0 edge-chat.facebook.com					
-0.0.0.0 mqtt-mini.facebook.com
-0.0.0.0 clientconfig.passport.net					
-0.0.0.0 client-s.gateway.messenger.live.com					
-0.0.0.0 xkms.xboxlive.com					
-0.0.0.0 assets1.xboxlive.com					
-0.0.0.0 v10.events.data.microsoft.com					
-0.0.0.0 v20.events.data.microsoft.com					
-0.0.0.0 xbox.ipv6.microsoft.com					
-0.0.0.0 device.auth.xboxlive.com					
-0.0.0.0 title.mgt.xboxlive.com					
-0.0.0.0 xsts.auth.xboxlive.com					
-0.0.0.0 title.auth.xboxlive.com					
-0.0.0.0 attestation.xboxlive.com					
-0.0.0.0 xboxexperiencesprod.experimentation.xboxlive.com					
-0.0.0.0 xflight.xboxlive.com					
-0.0.0.0 cert.mgt.xboxlive.com					
-0.0.0.0 def-vef.xboxlive.com					
-0.0.0.0 notify.xboxlive.com					
-0.0.0.0 help.ui.xboxlive.com					
-0.0.0.0 licensing.xboxlive.com					
-0.0.0.0 eds.xboxlive.com					
-0.0.0.0 www.xboxlive.com					
-0.0.0.0 xkms.xbolive.com
+kinguin.net
+www.kinguin.net
+creative.ak.fbcdn.net
+external-lhr0-1.xx.fbcdn.net
+external-lhr10-1.xx.fbcdn.net
+external-lhr1-1.xx.fbcdn.net
+external-lhr2-1.xx.fbcdn.net
+external-lhr3-1.xx.fbcdn.net
+external-lhr4-1.xx.fbcdn.net
+external-lhr5-1.xx.fbcdn.net
+external-lhr6-1.xx.fbcdn.net
+external-lhr7-1.xx.fbcdn.net
+external-lhr8-1.xx.fbcdn.net
+external-lhr9-1.xx.fbcdn.net
+fbcdn-creative-a.akamaihd.net
+graph.facebook.com
+graph.instagram.com
+instagram.c10r.facebook.com
+scontent-lhr3-1.xx.fbcdn.net
+scontent.xx.fbcdn.net
+scontent.fgdl5-1.fna.fbcdn.net
+facebook.com
+facebook.net
+fbcdn.net
+cdn.fbsbx.com
+edge-mqtt.facebook.com
+0-edge-chat.facebook.com
+1-edge-chat.facebook.com
+2-edge-chat.facebook.com
+3-edge-chat.facebook.com
+4-edge-chat.facebook.com
+5-edge-chat.facebook.com
+6-edge-chat.facebook.com
+edge-chat.facebook.com
+mqtt-mini.facebook.com
+clientconfig.passport.net
+client-s.gateway.messenger.live.com
+xkms.xboxlive.com
+assets1.xboxlive.com
+v10.events.data.microsoft.com
+v20.events.data.microsoft.com
+xbox.ipv6.microsoft.com
+device.auth.xboxlive.com
+title.mgt.xboxlive.com
+xsts.auth.xboxlive.com
+title.auth.xboxlive.com
+attestation.xboxlive.com
+xboxexperiencesprod.experimentation.xboxlive.com
+xflight.xboxlive.com
+cert.mgt.xboxlive.com
+def-vef.xboxlive.com
+notify.xboxlive.com
+help.ui.xboxlive.com
+licensing.xboxlive.com
+eds.xboxlive.com
+www.xboxlive.com
+xkms.xbolive.com
