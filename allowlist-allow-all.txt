@@ -1,6 +1,5 @@
 kinguin.net
 www.kinguin.net
-# ######################################### Facebook ######################################### #
 creative.ak.fbcdn.net					
 external-lhr0-1.xx.fbcdn.net					
 external-lhr10-1.xx.fbcdn.net					
@@ -34,7 +33,6 @@ edge-mqtt.facebook.com
 6-edge-chat.facebook.com					
 edge-chat.facebook.com					
 mqtt-mini.facebook.com
-# ######################################### Xbox Live ######################################### #
 clientconfig.passport.net					
 client-s.gateway.messenger.live.com					
 xkms.xboxlive.com					
