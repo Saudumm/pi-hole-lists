@@ -1,4 +1,4 @@
-# Renadom
+# Random
 1drv.com
 alluremedia.com.au
 api.erabu.sony.tv
@@ -281,6 +281,7 @@ basicappleguy.com
 geo-applefinance-cache.internal.query.g03.yahoodns.net
 ocsp.apple.com
 www.appleiphonecell.com
+apple-relay.cloudflare.com
 
 # Conviva
 cws.conviva.com
