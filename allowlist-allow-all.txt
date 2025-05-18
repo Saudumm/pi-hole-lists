@@ -113,6 +113,8 @@ www.gogalaxy.com
 www.kinguin.net
 www.no-ip.com
 xlog-va.byteoversea.com
+a-fds.youborafds01.com
+s.click.aliexpress.com
 
 #Facebook
 0-edge-chat.facebook.com
@@ -282,6 +284,7 @@ geo-applefinance-cache.internal.query.g03.yahoodns.net
 ocsp.apple.com
 www.appleiphonecell.com
 apple-relay.cloudflare.com
+apple-relay.fastly-edge.com
 
 # Conviva
 cws.conviva.com
