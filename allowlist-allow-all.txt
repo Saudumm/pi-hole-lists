@@ -18,7 +18,6 @@ cdn.vidible.tv
 cdn2.optimizely.com
 cdn3.optimizely.com
 cdnjs.cloudflare.com
-cdp.cloud.unity3d.com
 co.vaicore.store
 config.uca.cloud.unity3d.com
 ctest.cdn.nintendo.net
@@ -58,7 +57,6 @@ jquery.com
 jsdelivr.net
 keystone.mwbsys.com
 kinguin.net
-launches.appsflyer.com
 mgln.ai
 mydealz.digidip.net
 no-ip.com
@@ -85,7 +83,6 @@ sdk.iad-05.braze.com
 secure.avangate.com
 secure.brightcove.com
 secure.surveymonkey.com
-smetrics.aem.playstation.com
 sourcepoint.mgr.consensu.org
 spclient.wg.spotify.com
 ssl.p.jwpcdn.com
@@ -112,7 +109,6 @@ www.der-postillon.com
 www.gogalaxy.com
 www.kinguin.net
 www.no-ip.com
-xlog-va.byteoversea.com
 a-fds.youborafds01.com
 s.click.aliexpress.com
 
@@ -166,8 +162,6 @@ licensing.xboxlive.com
 notify.xboxlive.com
 title.auth.xboxlive.com
 title.mgt.xboxlive.com
-v10.events.data.microsoft.com
-v20.events.data.microsoft.com
 www.xboxlive.com
 xbox.ipv6.microsoft.com
 xboxexperiencesprod.experimentation.xboxlive.com
@@ -184,14 +178,10 @@ d2c8v52ll5s99u.cloudfront.net
 d2gatte9o95jao.cloudfront.net
 det-ta-g7g.amazon.com
 device-messaging-na.amazon.com
-device-metrics-us-2.amazon.com
-device-metrics-us.amazon.com
-fls-na.amazon.com
 ocsp.rootg2.amazontrust.com
 s3-eu-west-1.amazonaws.com
 s3.amazonaws.com
 todo-ta-g7g.amazon.com
-unagi-na.amazon.com
 us-east-1.amazonaws.com
 www.amazon.com
 
@@ -212,7 +202,6 @@ connectivitycheck.android.com
 connectivitycheck.gstatic.com
 continuum.dds.microsoft.com
 cse.google.com
-firebaselogging-pa.googleapis.com
 geo3.ggpht.com
 gfwsl.geforce.com
 googleapis.com
@@ -226,7 +215,6 @@ manifest.googlevideo.com
 redirector.googlevideo.com
 s.ytimg.com
 s2.youtube.com
-video-stats.l.google.com
 www.googleapis.com
 www.youtube-nocookie.com
 youtu.be
@@ -270,7 +258,6 @@ slscr.update.microsoft.com
 support.microsoft.com
 t0.ssl.ak.dynamic.tiles.virtualearth.net
 t0.ssl.ak.tiles.virtualearth.net
-v10.vortex-win.data.microsoft.com
 win10.ipv6.microsoft.com
 www.msftconnecttest.com
 www.msftncsi.com
@@ -320,3 +307,10 @@ g2.akamai.net
 lastfm-img2.akamaized.net
 mwf-service.akamaized.net
 steamcdn-a.akamaihd.net
+
+# Test
+safebrowsing.googleapis.com
+android-safebrowsing.google.com
+ohttp-relay-safebrowsing-android.google.fastly-edge.com
+safebrowsing.google.com
+firebaseinstallations.googleapis.com
